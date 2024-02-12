@@ -1,0 +1,47 @@
+:root {
+  --grayScale-00: #000;
+  --grayScale-01: #181818;
+  --grayScale-02: #444;
+  --grayScale-03: #b9b9b9;
+  --grayScale-04: #cfcfcf;
+  --grayScale-05: #e4e4e4;
+  --grayScale-06: #f5f5f5;
+  --grayScale-07: #fff;
+
+  --primary-00: #7b31d4;
+  --primary-01: #953ced;
+  --primary-02: #a64ced;
+  --primary-03: #ba8bf3;
+  --primary-04: rgba(149, 76, 237, 0.2);
+
+  --secondary-00: #2fdbbc;
+  --secondary-01: #ffaa4c;
+  --secondary-02: #c1db2f;
+
+  --additional-00: #ff6c2d;
+  --additional-01: #ec1211;
+
+  --t1-bold-128: 700 8rem/106% "Outfit";
+  --t2-bold-96: 700 6rem/106% "Outfit";
+  --t3-bold-64: 700 4rem/106% "Outfit";
+  --t4-bold-48: 700 3rem/106% "Outfit";
+  --t5-semibold-48: 600 3rem "Outfit";
+  --t6-bold-40: 700 2.5rem/106% "Outfit";
+  --t7-bold-32: 700 2rem/106% "Outfit";
+  --t8-bold-86: 700 5.375rem/106% "Outfit";
+
+  --s1-semibold-36: 600 2.25rem "Outfit";
+  --s2-semibold-24: 600 1.5rem/120% "Outfit";
+  --s3-regular-24: 400 1.5rem/120% "Outfit";
+  --s4-semibold-20: 600 1.25rem "Outfit";
+  --s5-medium-20: 500 1.25rem "Outfit";
+  --s6-regular-20: 400 1.25rem/120% "Outfit";
+  --s7-light-20: 300 1.25rem/120% "Outfit";
+
+  --b1-medium-16: 500 1rem "Outfit";
+  --b2-regular-16: 400 1rem "Outfit";
+  --b3-medium-14: 500 0.875rem/1.375rem "Outfit";
+  --b4-regular-14: 400 0.875rem/1.375rem "Outfit";
+  --b5-light-14: 300 0.875rem/140% "Outfit";
+  --b7-regular-12: 400 0.75rem/1.25rem "Outfit";
+}

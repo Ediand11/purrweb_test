@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./src/styles/slider.css" />
+    <title>Slider</title>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="sliders" id="sliders">
+        <img src="src/images/memeDog.jpeg" alt="memeDog" />
+        <img src="src/images/memeCat.jpeg" class="hide" alt="memeCat" />
+        <img src="src/images/loadingCat.jpeg" class="hide" alt="loadingCat" />
+      </div>
+      <div class="buttons">
+        <button class="prev" id="prev">
+          <img src="src/svg/next-button-icon.svg" alt="prevButton" />
+        </button>
+        <button class="next" id="next">
+          <img src="src/svg/next-button-icon.svg" alt="nextButton" />
+        </button>
+      </div>
+      <div class="dots" id="dots"></div>
+    </div>
+    <script src="src/scripts/slider.js"></script>
+  </body>
+</html>
